@@ -4,7 +4,7 @@
 <html>
 <head>
 	<title>Registration system PHP and MySQL</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="style.css?v=<?php echo time(); ?>">
 </head>
 <body>
 <div class="header">

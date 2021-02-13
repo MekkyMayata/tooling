@@ -3,7 +3,7 @@
 <html>
 <head>
 	<title>Propitix Tooling Login</title>
-	<link rel="stylesheet" type="text/css" href="style.css">
+	<link rel="stylesheet" type="text/css" href="style.css?v=<?php echo time(); ?>">
 </head>
 <body>
 	<div class="header">

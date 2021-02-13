@@ -16,8 +16,8 @@ if (isset($_GET['logout'])) {
 <html>
 <head>
 	<title>Home</title>
-	<link rel="stylesheet" type="text/css" href="style.css">
-	<link rel="stylesheet" type="text/css" href="tooling_stylesheets.css">
+	<link rel="stylesheet" type="text/css" href="style.css?v=<?php echo time(); ?>">
+	<link rel="stylesheet" type="text/css" href="tooling_stylesheets.css?v=<?php echo time(); ?>">
 	<style>
 	.header {
 		background: #003366;

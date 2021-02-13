@@ -15,7 +15,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" type="text/css" href="tooling_stylesheets.css">
+    <link rel="stylesheet" type="text/css" href="tooling_stylesheets.css?v=<?php echo time(); ?>">
    <script src="script.js"></script> 
     <title> PROPITIX TOOLING</title>
 </head>
